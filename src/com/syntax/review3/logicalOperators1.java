@@ -1,4 +1,4 @@
-package review3;
+package com.syntax.review3;
 
 public class logicalOperators1 {
     public static void main(String[] args) {
