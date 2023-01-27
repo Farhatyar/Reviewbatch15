@@ -2,7 +2,7 @@ package com.syntax.review4;
 
 import java.util.Scanner;
 
-public class review4 {
+public class loops {
     public static void main(String[] args) {
         //while loop
         int a = 1;
