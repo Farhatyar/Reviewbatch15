@@ -1,4 +1,4 @@
-package com.syntax.revirw5;
+package com.syntax.review5;
 
 public class ArrayReview {
     public static void main(String[] args) {

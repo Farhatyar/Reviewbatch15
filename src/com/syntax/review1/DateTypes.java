@@ -8,7 +8,7 @@ public class DateTypes {
 
          /* primitive  datatypes ; byte, short , float, int, long, double, boolean ,char
 
-      numeric  numbers  byte, short int, long
+      numeric  number  byte, short int, long
           decimal numbers: double float,
           boolean : true or false
            char;*/
